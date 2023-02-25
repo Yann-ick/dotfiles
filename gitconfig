@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bourki.yannick@gmail.com
+	name = Yannick Bourki
